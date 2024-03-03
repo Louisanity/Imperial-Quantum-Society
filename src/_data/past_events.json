@@ -3,6 +3,18 @@
     {
       "images": [
         {
+          "src": "/img/carousel/events/welcome2024/welcome_event.jpg",
+          "alt": "..."
+        }
+      ],
+      "category": "Social Evenet",
+      "title": "Welcome Event 2024",
+      "content": "First welcome evenet after becoming a official society under Imperial Student Union.",
+      "date": "October 26, 2023"
+    },
+    {
+      "images": [
+        {
           "src": "/img/carousel/events/nqcc_hackathon/85ee89f9-bb0a-4f00-837d-607e5f125a1c.jpg",
           "alt": "..."
         },
