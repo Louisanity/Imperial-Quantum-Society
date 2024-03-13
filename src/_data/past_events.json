@@ -5,6 +5,10 @@
         {
           "src": "/img/carousel/events/qmlworkshop_1/qmlworkshop.jpg",
           "alt": "..."
+        },
+        {
+          "src": "/img/carousel/events/qmlworkshop_1/qmlworkshop.jpg",
+          "alt": "..."
         }
       ],
       "category": "Workshop",
@@ -17,12 +21,32 @@
         {
           "src": "/img/carousel/events/welcome2024/welcome_event.jpg",
           "alt": "..."
+        },
+        {
+          "src": "/img/carousel/events/welcome2024/welcome_event.jpg",
+          "alt": "..."
         }
       ],
       "category": "Social Evenet",
       "title": "Welcome Event 2024",
       "content": "First welcome evenet after becoming a official society under Imperial Student Union.",
       "date": "October 26, 2023"
+    },
+    {
+      "images": [
+        {
+          "src": "/img/carousel/events/quest_launch/quest_launch.jpg",
+          "alt": "..."
+        },
+        {
+          "src": "/img/carousel/events/quest_launch/quest_launch.jpg",
+          "alt": "..."
+        }
+      ],
+      "category": "Social Evenet",
+      "title": "Imperial QTSoc at Imperial QuEST launch event",
+      "content": "Imperial QTSoc made a remarkable impression at the Imperial QuEST launch event, marking a significant milestone in quantum exploration and collaboration.",
+      "date": "July 04, 2023"
     },
     {
       "images": [
