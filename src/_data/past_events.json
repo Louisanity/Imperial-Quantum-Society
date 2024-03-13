@@ -3,6 +3,18 @@
     {
       "images": [
         {
+          "src": "/img/carousel/events/qmlworkshop_1/qmlworkshop.jpg",
+          "alt": "..."
+        }
+      ],
+      "category": "Workshop",
+      "title": "First Quantum Machine Learning Workshop 2024",
+      "content": "First Quantum Machine Learning Workshop for students at Imperial College.",
+      "date": "November 06, 2023"
+    },
+    {
+      "images": [
+        {
           "src": "/img/carousel/events/welcome2024/welcome_event.jpg",
           "alt": "..."
         }
