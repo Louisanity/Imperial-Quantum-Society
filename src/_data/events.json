@@ -1,5 +1,13 @@
 {
   "events": [
+        {
+      "title": "QTSoc Quantum Talk Vol. 2",
+      "date": "April 25th 24'",
+      "duration": "18:00-19:00",
+      "link": "https://forms.office.com/pages/responsepage.aspx?id=B3WJK4zudUWDC0-CZ8PTB5EQazDlqiJFnuKgGqemIZ1UNzBHNEMzUThLM0tTUTBIRTQyTUhRVk44Ry4u",
+      "duration_unit": " ",
+      "content": "Join us for a hands-on seminar on Classiq and Imperial QTSoc. In the seminar, we will discuss the Classiq Platform and quantum algorithm design."
+    },
     {
       "title": "QTSoc Quantum Talk Vol. 1",
       "date": "Mar 21st 24'",
