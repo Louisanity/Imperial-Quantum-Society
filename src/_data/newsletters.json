@@ -1,5 +1,9 @@
 {
   "newsletters": [
+        {
+      "title": "Vol.1 April 2024",
+      "link": "https://mailchi.mp/4a580922176d/imperial-quantum-technology-society-newsletter"
+    },
     {
       "title": "Vol.2 March 2024",
       "link": "https://mailchi.mp/52e7251c2780/imperial-quantum-technology-society-newsletter?e=c078e49af5"
@@ -19,10 +23,6 @@
     {
       "title": "February 8th Edition",
       "link": "https://mailchi.mp/3bf15b54b267/quantum-technology-society-newsletter-15910814?e=a92d3e1b65"
-    },
-    {
-      "title": "February 18th Edition",
-      "link": "https://mailchi.mp/51a00931830a/quantum-technology-society-newsletter-15916487?e=a92d3e1b65"
     }
   ]
 }
